@@ -15,24 +15,6 @@
 
 ---
 
-## 🛠️ Tech Stack  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-
----
-
-## 🚀 Installation  
-1. Clone the repo:  
-   ```bash
-   git clone https://github.com/aoudumber-bade/she-likes-flowers.git
-   ```
-2. Open in browser:  
-   ```bash
-   cd she-likes-flowers && open index.html
-   ```
-*No dependencies needed! Runs purely on vanilla web tech.*
-
 ---
 
 ## 🌷 How to Use  
@@ -44,17 +26,11 @@
 
 ---
 
-## 📄 License  
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.  
-
----
-
 ## 💌 Acknowledgments  
 - To every developer who believes code can be romantic 💻❤️  
 - CSS-Tricks & MDN Web Docs for animation references  
 - *Her* smile, for debugging motivation 😊  
 
 ---
-
-**Made something sweet with this code? Tag me on [Instagram]()!**  
+ 
 **⭐ Star this repo if you’d code for someone special!**
