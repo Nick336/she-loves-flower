@@ -6,6 +6,7 @@
 ![Demo GIF](./images/image.png) 
 
 ---
+visit:- https://nick336.github.io/she-loves-flower/ ❤️  
 
 ## ✨ Features  
 - **Cursor Flower Effect**: Flowers with random colors/sizes appear wherever the cursor moves 🌈  
